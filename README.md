@@ -21,11 +21,11 @@
 
 
 ## Screenshots
-![](https://i.imgur.com/wmVU4OQ.png)
+[![](https://i.imgur.com/wmVU4OQ.png)](https://discord.gg/VMmcGxk)
 
-![](https://i.imgur.com/3NIMH30.png)
+[![](https://i.imgur.com/3NIMH30.png)](https://discord.gg/VMmcGxk)
 
-![](https://i.imgur.com/1hJStnf.png)
+[![](https://i.imgur.com/1hJStnf.png)](https://discord.gg/VMmcGxk)
 
 
 ## Discord
