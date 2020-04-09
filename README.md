@@ -1,4 +1,6 @@
 # vrp_voice_display
+[![](https://i.imgur.com/wmVU4OQ.png)](https://discord.gg/VMmcGxk)
+
 * Hud simples para vRPex, com sistema de distância de voz, data, horário e rua.
 * Mostra o link do discord quando digitado __/discord__
 
