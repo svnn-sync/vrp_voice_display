@@ -9,7 +9,7 @@
 * Shows the discord link when typed __/discord__
 
 
-## Installation/Instalação
+## Instalação/Installation
 1. Extraia o .zip ou abra-o.
 2. Coloque o `vrp_voice_display` na sua pasta resources.
 3. Adicione `start vrp_voice_display` em server.cfg
